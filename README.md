@@ -1,16 +1,24 @@
-## Hi there 👋
+##👋 Olá, eu sou o Davi Dias
 
-<!--
-**Davi-Dutra09/Davi-Dutra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 17 anos, quando eu era pequeno acabei ganhando um computador e fui me desenvolvendo cada vez mais nessa área, assim começando um curso de TI que acabei não completando ele por completo, hoje em dia estou cursando FULL STACK(curso profissionalizante de programação) no SENAI. Sempre tive curiosidade sobre como os sistemas funcionam e gosto de praticar e desenvolver cada vez mais meu conhecimento nessa área. Tenho vontade de me profissionalizar nessa área futuramente e poder ajudar a sociedade ou os que estão próximos de mim com meu esforço e dedicação criando soluções que fazem diferença no dia a dia.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pacote_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Informática_Básica-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lógica_de_Programação-6A1B9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Full Stack
+- HTML5
+- CSS3
+- Lógica de Programação
+- Git e GitHub
