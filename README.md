@@ -17,7 +17,7 @@ Tenho 17 anos, quando eu era pequeno acabei ganhando um computador e fui me dese
 
 ## 📞CONTATO
 <p align="center">
-  <a href="https://https://www.instagram.com/davi_dias999/" target="_blank">
+  <a href="//https:www.instagram.com/davi_dias999/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
